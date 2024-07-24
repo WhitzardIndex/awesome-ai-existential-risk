@@ -1,4 +1,6 @@
 # Awesome AI Existential Risks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![License](https://img.shields.io/github/license/WhitzardIndex/awesome-ai-existential-risk?color=blue)](./LICENSE)
+[![HitCount](https://hits.dwyl.com/WhitzardIndex/awesome-ai-existential-risk.svg?style=flat-square)](http://hits.dwyl.com/WhitzardIndex/awesome-ai-existential-risk)
 
 This repository contains a curated list of scientific and interdisciplinary research on AI existential risks, especially in the era of large models.
 
