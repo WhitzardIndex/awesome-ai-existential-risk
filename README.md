@@ -14,7 +14,7 @@ This repository contains a curated list of scientific and interdisciplinary rese
 * [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598) (Max Tegmark, 2017) `#book`
 * [Human Compatible: Artificial Intelligence and the Problem of Control](https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558616/ref=pd_sim_d_sccl_2_2/146-1505258-2189126?content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b) (Stuart Russell, 2019) `#book`
 * [Introduction to AI Safety, Ethics, and Society](https://drive.google.com/file/d/1cy4BN2SP-oTGs2pVFOU_Eb80BoDBnrYW/view) (Dan Hendrycks, 2024) `#book`
-* [AI deception: A survey of examples, risks, and potential solutions](https://www.cell.com/patterns/pdfExtended/S2666-3899(24)00103-X) (Peter S. Park, Patterns 2024) `#survey` `#deception`
+* [AI deception: A survey of examples, risks, and potential solutions](https://www.cell.com/patterns/pdfExtended/S2666-3899(24)00103-X) (Peter S. Park et al., Patterns 2024) `#survey` `#deception`
 
 
 ## Negative Characteristics
