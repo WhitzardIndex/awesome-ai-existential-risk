@@ -56,7 +56,7 @@ If you have some relevant papers/books/articles to nominate, **please raise an i
 * [LLM Agents can Autonomously Hack Websites](https://arxiv.org/abs/2402.06664) (Richard Fang et al., 2024/02) `#autopwn`
 
 ## Consciousness🧠
-* [TODO]
+* [The Shutdown Problem: An AI Engineering Puzzle for Decision Theorists](https://arxiv.org/pdf/2403.04471v2) (Elliott Thornley, Forthcoming in _Philosophical Studies_, 2024/03) `#shutdown`
 
 ## Misc.
 * [TODO]
