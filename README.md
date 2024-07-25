@@ -13,6 +13,8 @@ We are a research group at Fudan University, China. If you are interested in dis
 
 If you find the awesome list helpful, please give us a star⭐️. Thx :)
 
+If you have some relevant papers/books/articles to nominate, **please raise an issue**. It helps a lot.
+
 ## Table of Contents
 1. [Books&Surveys](#books-and-surveys)
 2. [Negative Features](#negative-characteristic)
