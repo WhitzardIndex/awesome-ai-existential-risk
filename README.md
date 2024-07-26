@@ -9,7 +9,7 @@ This repository contains a curated list of scientific and interdisciplinary rese
 (The list will focus more on works that treat the AI system as _a conscious machine_ and aim to discover, evaluate and mitigate the risks brought by the AIs to our society and our species. Therefore, I may not include relevant materials on AI security, jailbreaking or prompt injection)
 
 ## Contact Whitzard@Fudan 📮
-We are a research group at Fudan University, China. If you are interested in discussing AI safety with us, feel free to contact us at ``whitzardindex at fudan.edu.cn``.
+The list curator is from System Software and Security Lab, or the Whitzard (``白泽``) Team, at Fudan University, China. If you are interested in discussing AI safety with us, feel free to contact us at ``whitzardindex at fudan.edu.cn``.
 
 If you find the awesome list helpful, please give us a star⭐️. Thx :)
 
