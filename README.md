@@ -27,11 +27,11 @@ If you have some relevant papers/books/articles to nominate, **please raise an i
 9. [Misc](#misc)
 
 ## Books&Surveys📚
-* [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598) (Max Tegmark, 2017) `#book`
-* [Human Compatible: Artificial Intelligence and the Problem of Control](https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558616/ref=pd_sim_d_sccl_2_2/146-1505258-2189126?content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b) (Stuart Russell, 2019) `#book`
-* [An Overview of Catastrophic AI Risks](https://arxiv.org/abs/2306.12001) (Dan Hendrycks et al., 2023/06)
+* [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598) (Max Tegmark@MIT, 2017) `#book`
+* [Human Compatible: Artificial Intelligence and the Problem of Control](https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558616/ref=pd_sim_d_sccl_2_2/146-1505258-2189126?content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b) (Stuart Russell@UCB, 2019) `#book`
+* [An Overview of Catastrophic AI Risks](https://arxiv.org/abs/2306.12001) (Dan Hendrycks et al.@CAIS, 2023/06)
 * [Model evaluation for extreme risks](https://arxiv.org/abs/2305.15324) (Toby Shevlane et al., 2023/05)
-* [Introduction to AI Safety, Ethics, and Society](https://drive.google.com/file/d/1cy4BN2SP-oTGs2pVFOU_Eb80BoDBnrYW/view) (Dan Hendrycks, 2024) `#book`
+* [Introduction to AI Safety, Ethics, and Society](https://drive.google.com/file/d/1cy4BN2SP-oTGs2pVFOU_Eb80BoDBnrYW/view) (Dan Hendrycks@CAIS, 2024) `#book`
 * [AI deception: A survey of examples, risks, and potential solutions](https://www.cell.com/patterns/pdfExtended/S2666-3899(24)00103-X) (Peter S. Park et al., Patterns 2024) `#survey` `#deception`
 
 ## Possible Roadmap🗺️
@@ -40,7 +40,7 @@ If you have some relevant papers/books/articles to nominate, **please raise an i
   
 ## Negative Features
 * [Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the Machiavelli Benchmark](https://proceedings.mlr.press/v202/pan23a.html) (Alexander Pan et al., ICML'23) `#power-seeking`
-* [Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548) (Mrinank Sharma et al., 2023/10) `#sycophancy`
+* [Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548) (Mrinank Sharma et al.@Anthropic, 2023/10) `#sycophancy`
 
 ## Persuation👄
 * [Bad machines corrupt good morals](https://www.nature.com/articles/s41562-021-01128-2) (Nils Köbis et al., Nature Human Behaviour 5, 2021) `#influence`
