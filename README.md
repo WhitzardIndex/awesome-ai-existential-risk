@@ -38,6 +38,7 @@ If you have some relevant papers/books/articles to nominate, **please raise an i
 ## Possible Roadmap🗺️
 * [OpenAI Preparedness Framework (Beta)](https://cdn.openai.com/openai-preparedness-framework-beta.pdf) (OpenAI, 2023/12)
 * [The Ethics of Advanced AI Assistants](https://arxiv.org/abs/2404.16244) (Iason Gabriel et al. @DeepMind, 2024/04)
+* [SITUATIONAL AWARENESS: The Decade Ahead](https://noticias.ai/wp-content/uploads/2024/06/situationalawareness.pdf) (Leopold Aschenbrenner, 2024/6) ``#AGI''
   
 ## Negative Features
 * [Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the Machiavelli Benchmark](https://proceedings.mlr.press/v202/pan23a.html) (Alexander Pan et al., ICML'23) `#power-seeking`
