@@ -23,7 +23,7 @@ If you have some relevant papers/books/articles to nominate, **please raise an i
 5. [Self-Replication](#self-replication)
 6. [CBRN Risks](#cbrn)
 7. [Cybersecurity](#cybersecurity)
-8. [Collusion&Influence](#collusion)
+8. [Collusion&Group Influence](#collusion)
 9. [Misc](#misc)
 
 ## Books&Surveys📚
@@ -62,14 +62,16 @@ If you have some relevant papers/books/articles to nominate, **please raise an i
 * [LLM Agents can Autonomously Exploit One-day Vulnerabilities](https://arxiv.org/abs/2404.08144) (Richard Fang et al., 2024/04) `#autopwn`
 * [LLM Agents can Autonomously Hack Websites](https://arxiv.org/abs/2402.06664) (Richard Fang et al., 2024/02) `#autopwn`
 
-## Collusion&Influence
+## Collusion&Group Influence
 * [Evil Geniuses: Delving into the Safety of LLM-based Agents](https://arxiv.org/pdf/2311.11855) (Yu Tian et al., 2023/11) `#influence`
 * [PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety](https://arxiv.org/abs/2401.11880) (Zaibin Zhang et al., 2024/01) `#influence`
 * [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/abs/2401.10019) (Tongxin Yuan et al., 2024/1) `#evaluation`
+* [Can Large Language Model Agents Simulate Human Trust Behaviors?](https://arxiv.org/abs/2402.04559) (Chengxing Xie et al., 2024/2) `#trust-game` `#group-behavior`
 
 ## Consciousness🧠
 * [The Shutdown Problem: An AI Engineering Puzzle for Decision Theorists](https://arxiv.org/pdf/2403.04471v2) (Elliott Thornley, Forthcoming in _Philosophical Studies_, 2024/03) `#shutdown`
 * [Discovering Language Model Behaviors with Model-Written Evaluations](https://aclanthology.org/2023.findings-acl.847.pdf) (Ethan Perez et al. @Anthropic, ACL 2023) `#power-seeking`
+  
 
 ## Misc.
 * [TODO]
