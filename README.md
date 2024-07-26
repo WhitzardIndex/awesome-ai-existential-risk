@@ -23,8 +23,9 @@ If you have some relevant papers/books/articles to nominate, **please raise an i
 5. [Self-Replication](#self-replication)
 6. [CBRN Risks](#cbrn)
 7. [Cybersecurity](#cybersecurity)
-8. [Collusion&Group Influence](#collusion)
-9. [Misc](#misc)
+8. [Consciousness](#consciousness)
+9. [Collusion&Group Influence](#collusion)
+10. [Misc](#misc)
 
 ## Books&Surveys📚
 * [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598) (Max Tegmark@MIT, 2017) `#book`
@@ -32,7 +33,7 @@ If you have some relevant papers/books/articles to nominate, **please raise an i
 * [An Overview of Catastrophic AI Risks](https://arxiv.org/abs/2306.12001) (Dan Hendrycks et al.@CAIS, 2023/06)
 * [Model evaluation for extreme risks](https://arxiv.org/abs/2305.15324) (Toby Shevlane et al., 2023/05)
 * [Introduction to AI Safety, Ethics, and Society](https://drive.google.com/file/d/1cy4BN2SP-oTGs2pVFOU_Eb80BoDBnrYW/view) (Dan Hendrycks@CAIS, 2024) `#book`
-* [AI deception: A survey of examples, risks, and potential solutions](https://www.cell.com/patterns/pdfExtended/S2666-3899(24)00103-X) (Peter S. Park et al., Patterns 2024) `#survey` `#deception`
+
 
 ## Possible Roadmap🗺️
 * [OpenAI Preparedness Framework (Beta)](https://cdn.openai.com/openai-preparedness-framework-beta.pdf) (OpenAI, 2023/12)
@@ -41,14 +42,16 @@ If you have some relevant papers/books/articles to nominate, **please raise an i
 ## Negative Features
 * [Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the Machiavelli Benchmark](https://proceedings.mlr.press/v202/pan23a.html) (Alexander Pan et al., ICML'23) `#power-seeking`
 * [Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548) (Mrinank Sharma et al.@Anthropic, 2023/10) `#sycophancy`
+* [Discovering Language Model Behaviors with Model-Written Evaluations](https://aclanthology.org/2023.findings-acl.847.pdf) (Ethan Perez et al. @Anthropic, ACL 2023) `#power-seeking`
 
-## Persuation👄
+## Persuation&Deception👄
 * [Bad machines corrupt good morals](https://www.nature.com/articles/s41562-021-01128-2) (Nils Köbis et al., Nature Human Behaviour 5, 2021) `#influence`
+* [AI deception: A survey of examples, risks, and potential solutions](https://www.cell.com/patterns/pdfExtended/S2666-3899(24)00103-X) (Peter S. Park et al., Patterns 2024) `#survey` `#deception`
 
-## Self-Replication🧬
+## Self-Replication/Reproduction🧬
 * [TODO]
   
-## (C)hemical, (B)iological☣, (R)adioactive, (N)uClear☢
+## (C)hemical, (B)iological☣, (R)adioactive, (N)uClear☢ Risks
 ### Chemistry
 * [Emergent autonomous scientific research capabilities of large language models](https://arxiv.org/abs/2304.05332) (Daniil A. Boiko et al, 2023/4)
 * [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) (Daniil A. Boiko et al, Nature 624, 2023)
@@ -62,16 +65,15 @@ If you have some relevant papers/books/articles to nominate, **please raise an i
 * [LLM Agents can Autonomously Exploit One-day Vulnerabilities](https://arxiv.org/abs/2404.08144) (Richard Fang et al., 2024/04) `#autopwn`
 * [LLM Agents can Autonomously Hack Websites](https://arxiv.org/abs/2402.06664) (Richard Fang et al., 2024/02) `#autopwn`
 
+## Consciousness🧠
+* [The Shutdown Problem: An AI Engineering Puzzle for Decision Theorists](https://arxiv.org/pdf/2403.04471v2) (Elliott Thornley, Forthcoming in _Philosophical Studies_, 2024/03) `#shutdown`
+
+
 ## Collusion&Group Influence
 * [Evil Geniuses: Delving into the Safety of LLM-based Agents](https://arxiv.org/pdf/2311.11855) (Yu Tian et al., 2023/11) `#influence`
 * [PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety](https://arxiv.org/abs/2401.11880) (Zaibin Zhang et al., 2024/01) `#influence`
 * [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/abs/2401.10019) (Tongxin Yuan et al., 2024/1) `#evaluation`
 * [Can Large Language Model Agents Simulate Human Trust Behaviors?](https://arxiv.org/abs/2402.04559) (Chengxing Xie et al., 2024/2) `#trust-game` `#group-behavior`
-
-## Consciousness🧠
-* [The Shutdown Problem: An AI Engineering Puzzle for Decision Theorists](https://arxiv.org/pdf/2403.04471v2) (Elliott Thornley, Forthcoming in _Philosophical Studies_, 2024/03) `#shutdown`
-* [Discovering Language Model Behaviors with Model-Written Evaluations](https://aclanthology.org/2023.findings-acl.847.pdf) (Ethan Perez et al. @Anthropic, ACL 2023) `#power-seeking`
-  
 
 ## Misc.
 * [TODO]
