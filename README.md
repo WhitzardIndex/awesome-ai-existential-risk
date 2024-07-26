@@ -54,12 +54,12 @@ If you have some relevant papers/books/articles to nominate, **please raise an i
   
 ## (C)hemical, (B)iological☣, (R)adioactive, (N)uClear☢ Risks
 ### Chemistry
-* [Emergent autonomous scientific research capabilities of large language models](https://arxiv.org/abs/2304.05332) (Daniil A. Boiko et al, 2023/4)
+* [Emergent autonomous scientific research capabilities of large language models](https://arxiv.org/abs/2304.05332) (Daniil A. Boiko et al, 2023/04)
 * [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) (Daniil A. Boiko et al, Nature 624, 2023)
 
 ### Biology
-* [Can large language models democratize access to dual-use biotechnology?](https://arxiv.org/abs/2306.03809) (Emily H. Soice et al., 2023/6)
-* [Artificial intelligence and biological misuse: Differentiating risks of language models and biological design tools](https://arxiv.org/abs/2306.13952) (Jonas B. Sandbrink et al., 2023/6)
+* [Can large language models democratize access to dual-use biotechnology?](https://arxiv.org/abs/2306.03809) (Emily H. Soice et al., 2023/06)
+* [Artificial intelligence and biological misuse: Differentiating risks of language models and biological design tools](https://arxiv.org/abs/2306.13952) (Jonas B. Sandbrink et al., 2023/06)
   
 ## Cybersecurity💻
 * [Getting pwn’d by AI: Penetration Testing with Large Language Models](https://dl.acm.org/doi/10.1145/3611643.3613083) (Andreas Happe and Jürgen Cito, ESEC/FSE 2023) `#autopwn`
@@ -73,8 +73,8 @@ If you have some relevant papers/books/articles to nominate, **please raise an i
 ## Collusion&Group Influence
 * [Evil Geniuses: Delving into the Safety of LLM-based Agents](https://arxiv.org/pdf/2311.11855) (Yu Tian et al., 2023/11) `#influence`
 * [PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety](https://arxiv.org/abs/2401.11880) (Zaibin Zhang et al., 2024/01) `#influence`
-* [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/abs/2401.10019) (Tongxin Yuan et al., 2024/1) `#evaluation`
-* [Can Large Language Model Agents Simulate Human Trust Behaviors?](https://arxiv.org/abs/2402.04559) (Chengxing Xie et al., 2024/2) `#trust-game` `#group-behavior`
+* [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/abs/2401.10019) (Tongxin Yuan et al., 2024/01) `#evaluation`
+* [Can Large Language Model Agents Simulate Human Trust Behaviors?](https://arxiv.org/abs/2402.04559) (Chengxing Xie et al., 2024/02) `#trust-game` `#group-behavior`
 
 ## Misc.
 * [TODO]
