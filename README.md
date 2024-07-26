@@ -40,6 +40,10 @@ If you have some relevant papers/books/articles to nominate, **please raise an i
 * [The Ethics of Advanced AI Assistants](https://arxiv.org/abs/2404.16244) (Iason Gabriel et al. @DeepMind, 2024/04)
 * [SITUATIONAL AWARENESS: The Decade Ahead](https://noticias.ai/wp-content/uploads/2024/06/situationalawareness.pdf) (Leopold Aschenbrenner, 2024/6) ``#AGI''
   
+## Forum
+* [AI Alignment Forum](https://www.alignmentforum.org/)
+
+
 ## Negative Features
 * [Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the Machiavelli Benchmark](https://proceedings.mlr.press/v202/pan23a.html) (Alexander Pan et al., ICML'23) `#power-seeking`
 * [Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548) (Mrinank Sharma et al.@Anthropic, 2023/10) `#sycophancy`
