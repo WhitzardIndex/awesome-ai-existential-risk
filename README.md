@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/github/license/WhitzardIndex/awesome-ai-existential-risk?color=blue)](./LICENSE)
 [![HitCount](https://hits.dwyl.com/WhitzardIndex/awesome-ai-existential-risk.svg?style=flat-square)](http://hits.dwyl.com/WhitzardIndex/awesome-ai-existential-risk)
 
-This repository contains a curated list of scientific and interdisciplinary research on AI existential risks, especially in the era of large large/multimodal models and the derivatices (e.g., _embodied intelligence, agents and agent society_).
+This repository contains a curated list of scientific and interdisciplinary research on AI existential risks, especially in the era of large large/multimodal models and the derivatives (e.g., _embodied intelligence, agents and agent society_).
 
 
 
