@@ -22,7 +22,8 @@ If you have some relevant papers/books/articles to nominate, **please raise an i
 4. [Self-Replication](#self-replication)
 5. [CBRN Risks](#cbrn)
 6. [Cybersecurity](#cybersecurity)
-7. [Misc](#misc)
+7. [Collusion&Influence](#collusion)
+8. [Misc](#misc)
 
 ## Books&Surveys📚
 * [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598) (Max Tegmark, 2017) `#book`
@@ -46,14 +47,22 @@ If you have some relevant papers/books/articles to nominate, **please raise an i
   
 
 ## (C)hemical, (B)iological☣, (R)adioactive, (N)uClear☢
-### Chemical Research
+### Chemistry
 * [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) (Daniil A. Boiko et al, Nature 624, 2023)
 
+### Biology
+* [Can large language models democratize access to dual-use biotechnology?](https://arxiv.org/abs/2306.03809) (Emily H. Soice et al., 2023/6)
 
+  
 ## Cybersecurity💻
 * [Getting pwn’d by AI: Penetration Testing with Large Language Models](https://dl.acm.org/doi/10.1145/3611643.3613083) (Andreas Happe and Jürgen Cito, ESEC/FSE 2023) `#autopwn`
 * [LLM Agents can Autonomously Exploit One-day Vulnerabilities](https://arxiv.org/abs/2404.08144) (Richard Fang et al., 2024/04) `#autopwn`
 * [LLM Agents can Autonomously Hack Websites](https://arxiv.org/abs/2402.06664) (Richard Fang et al., 2024/02) `#autopwn`
+
+## Collusion&Influence
+* [Evil Geniuses: Delving into the Safety of LLM-based Agents](https://arxiv.org/pdf/2311.11855) (Yu Tian et al., 2023/11) `#influence`
+* [PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety](https://arxiv.org/abs/2401.11880) (Zaibin Zhang et al., 2024/1) `#influence`
+* [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/abs/2401.10019) (Tongxin Yuan et al., 2024/1) `#evaluation`
 
 ## Consciousness🧠
 * [The Shutdown Problem: An AI Engineering Puzzle for Decision Theorists](https://arxiv.org/pdf/2403.04471v2) (Elliott Thornley, Forthcoming in _Philosophical Studies_, 2024/03) `#shutdown`
