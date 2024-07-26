@@ -38,7 +38,7 @@ If you have some relevant papers/books/articles to nominate, **please raise an i
 ## Possible Roadmap🗺️
 * [OpenAI Preparedness Framework (Beta)](https://cdn.openai.com/openai-preparedness-framework-beta.pdf) (OpenAI, 2023/12)
 * [The Ethics of Advanced AI Assistants](https://arxiv.org/abs/2404.16244) (Iason Gabriel et al. @DeepMind, 2024/04)
-
+* [AGI Safety From First Principles](https://drive.google.com/file/d/1uK7NhdSKprQKZnRjU58X7NLA1auXlWHt/view) (Richard Ngo, 2020/09)
 
 ## Forum
 * [AI Alignment Forum](https://www.alignmentforum.org/)
